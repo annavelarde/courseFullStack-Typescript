@@ -1,0 +1,13 @@
+title exercise 04
+
+Alice->Bob: Authentication Request
+note right of Bob: Bob thinks about it
+Bob->Alice: Authentication Response
+
+
+Browser->Server:
+A-->B: text
+
+A->(2)B: text
+
+A->(2)B: text
